@@ -4,3 +4,4 @@ And copy { add dva-core } for [react-native-dva-starter](https://github.com/nihg
 
 Fix "The Expo SDK requires Expo to run. It appears the native Expo modules are unavailable and this code is not running on Expo. " >.<
 
+Then I added a little bit of my own ideas.  0..0
